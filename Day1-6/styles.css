@@ -1,3 +1,7 @@
+body{
+    text-align: center;
+}
+
 h1{
     color: darkgrey;
     font-family: sans-serif;
@@ -8,4 +12,18 @@ p{
     margin: 10px;
     font-family: sans-serif;
     color: gray;
+}
+a{
+    color: gray;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    text-decoration: wavy;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+
 }
