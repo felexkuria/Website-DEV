@@ -2,4 +2,10 @@ h1{
     color: darkgrey;
     font-family: sans-serif;
     text-align: center;
+    /* text-decoration: underline; */
+}
+p{
+    margin: 10px;
+    font-family: sans-serif;
+    color: gray;
 }
