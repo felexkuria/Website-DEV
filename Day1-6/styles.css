@@ -13,25 +13,28 @@ h1 {
   /* ksh 30k new connection + 40k ksh 20k */
   /* text-decoration: underline; */
 }
-h2{
-    font-family: "Oswald", serif;
-    font-weight: 900;
-    color: rgb(73, 70, 70);
-    margin: 0;
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  color: rgb(78, 13, 5);
+  margin: 0;
+}
+#desc {
+  margin-bottom: 36px;
 }
 p {
-  /* margin: 10px; */
   font-family: "Fira Sans", sans-serif;
-  color: gray;
+  font-size: 18px;
 }
 a {
   color: white;
   text-decoration: none;
   font-family: sans-serif;
   background-color: rgb(179, 65, 118);
-  font-size: 24px;
+  font-size: 18px;
   font-weight: bold;
-  padding: 8px;
+  padding: 16px;
   margin-bottom: 18px;
   border-radius: 10px;
 }
@@ -46,18 +49,22 @@ img {
   width: 200px;
   border-radius: 100px;
 }
-ul{
-    list-style-type: none;
-    width: 500px;
-    margin: 36px auto 0 auto;
-    padding: 0px;
+ul {
+  list-style-type: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0px;
 }
 li {
   display: block;
   font-size: 18px;
   padding: 8px;
-  background-color: coral;
+  background-color: rgb(223, 136, 124);
   /* padding: 16px 16px 8px 0px; */
-  border-radius: 10px;
-  margin:32px;
+  border-radius: 6px;
+  margin: 32px;
+}
+.daily-goal {
+  margin: 12px;
+  color: rgb(71, 29, 22);
 }
