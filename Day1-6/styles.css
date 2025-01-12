@@ -1,41 +1,63 @@
-body{
-    text-align: center;
-    background-color: bisque;
+body {
+  text-align: center;
+  background-color: bisque;
+  color: gray;
+  font-family: "Fira Sans", sans-serif;
 }
 
-h1{
-    color: darkgrey;
+h1 {
+  color: darkgrey;
+  font-family: "Oswald", serif;
+  font-size: 48px;
+  margin: 12px;
+  /* ksh 30k new connection + 40k ksh 20k */
+  /* text-decoration: underline; */
+}
+h2{
     font-family: "Oswald", serif;
-/* ksh 30k new connection + 40k ksh 20k */
-    /* text-decoration: underline; */
+    font-weight: 900;
+    color: rgb(73, 70, 70);
+    margin: 0;
 }
-
-p{
-    margin: 10px;
-    font-family:"Fira Sans", sans-serif;
-    color: gray;
-    
-   
-
+p {
+  /* margin: 10px; */
+  font-family: "Fira Sans", sans-serif;
+  color: gray;
 }
-a{
-    color: rgba(243, 86, 86, 0.589);
-    text-decoration: none;
-    font-family: sans-serif;
-    font-size: small;
-    font-weight: bold;
+a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  background-color: rgb(179, 65, 118);
+  font-size: 24px;
+  font-weight: bold;
+  padding: 8px;
+  margin-bottom: 18px;
+  border-radius: 10px;
 }
-a:hover{
-    color: rgb(118, 106, 226);
-    text-decoration: underline;
-    font-weight: bold;
+a:hover {
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+  background-color: aliceblue;
 }
 img {
-    height: 200px;
-    width: 200px;
-    border-radius: 100px;
-
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
 }
-li{
-    display: inline;
+ul{
+    list-style-type: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0px;
+}
+li {
+  display: block;
+  font-size: 18px;
+  padding: 8px;
+  background-color: coral;
+  /* padding: 16px 16px 8px 0px; */
+  border-radius: 10px;
+  margin:32px;
 }
