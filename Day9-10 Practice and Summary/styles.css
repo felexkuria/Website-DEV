@@ -44,3 +44,21 @@ p {
   padding: 10px;
   /* display: inline-flex; */
 }
+#hero-content {
+  width: 900px;
+  padding: 50px 0;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 2px 4px 8px rgb(68, 67, 67);
+  background-color: rgba(51, 47, 47, 0.8);
+}
+#hero-content p {
+  text-decoration-color: antiquewhite;
+  color: rgba(0, 0, 0, 0.5);
+}
+#hero {
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+  background-image: url("images/places/ocean.jpg");
+}
