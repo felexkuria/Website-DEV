@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+}
 #container {
   background-color: rgb(82, 23, 81);
   padding: 10px;
@@ -5,16 +8,9 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
-  /* flex-wrap: wrap; */
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
-
-p {
-  background-color: rgb(211, 88, 209);
-  margin: 10px;
-  width: 250px;
-}
-
 ul {
   background-color: rgb(250, 146, 63);
   list-style: none;
@@ -31,4 +27,20 @@ li {
   background-color: rgb(238, 212, 192);
   width: 100px;
   text-align: right;
+}
+.container2 {
+  border: 20px solid black;
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
+  padding: 10px;
+}
+p {
+  background-color: rgb(211, 88, 209);
+  margin: 5px;
+  /* width: 250px; */
+  padding: 10px;
+  /* display: inline-flex; */
 }
