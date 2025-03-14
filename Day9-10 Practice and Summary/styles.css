@@ -4,6 +4,9 @@
   width: 600px;
   display: flex;
   flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  /* flex-wrap: wrap; */
 }
 
 p {
@@ -16,11 +19,16 @@ ul {
   background-color: rgb(250, 146, 63);
   list-style: none;
   width: 250px;
-  margin: 10px;
-  padding: 0;
+  margin: 18px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  /* flex-wrap: wrap; */
 }
 
 li {
   background-color: rgb(238, 212, 192);
   width: 100px;
+  text-align: right;
 }
