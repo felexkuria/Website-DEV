@@ -1,0 +1,1128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//100 Days of Code Challenge//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:day16@100daysofcodechallenge
+DTSTAMP:20250315T000000Z
+DTSTART:20250315T070000Z
+DTEND:20250315T074500Z
+SUMMARY:Day 16 - Your Flexbox Challenge!
+DESCRIPTION:Checklist:\n[ ] S7L121 - Your Flexbox Challenge!\n[ ] S7L122 - Adding Flexbox to our Project\n[ ] S7L123 - Adding a Background Image\n[ ] S7L124 - Creating a Container for the Hero-Content\n[ ] S7L125 - Positioning Elements\n[ ] S7L126 - Styling the Hero Content\n[ ] S7L127 - Understanding Fixed & Absolute Positioning
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day17@100daysofcodechallenge
+DTSTAMP:20250316T000000Z
+DTSTART:20250316T070000Z
+DTEND:20250316T075300Z
+SUMMARY:Day 17 - Working with % Units & Creating a Top Navigation Bar
+DESCRIPTION:Checklist:\n[ ] S7L128 - Working with % Units & Creating a Top Navigation Bar\n[ ] S7L129 - Finishing the Header\n[ ] S7L130 - Introducing the "Highlights" Section\n[ ] S7L131 - Creating the HTML Code\n[ ] S7L132 - Building the Flex Container\n[ ] S7L133 - Flex Item Layout\n[ ] S7L134 - Styling Images with "object-fit"\n[ ] S7L135 - Styling Text
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day18@100daysofcodechallenge
+DTSTAMP:20250317T000000Z
+DTSTART:20250317T070000Z
+DTEND:20250317T074200Z
+SUMMARY:Day 18 - Understanding Parent - Child Margin Collapsing
+DESCRIPTION:Checklist:\n[ ] S7L136 - Understanding Parent - Child Margin Collapsing\n[ ] S7L137 - Working with CSS Functions - Linear Gradients\n[ ] S7L138 - The Next Step\n[ ] S7L139 - Creating a Footer Section\n[ ] S7L140 - Styling the Footer\n[ ] S7L141 - Places Page - Overview & Preparations\n[ ] S7L142 - Creating the Card Content\n[ ] S7L143 - Using "position: static"
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day19@100daysofcodechallenge
+DTSTAMP:20250318T000000Z
+DTSTART:20250318T070000Z
+DTEND:20250318T074800Z
+SUMMARY:Day 19 - Creating the Card Look
+DESCRIPTION:Checklist:\n[ ] S7L144 - Creating the Card Look\n[ ] S7L145 - Understanding "overflow" & Your Challenge!\n[ ] S7L146 - Solving the Challenge\n[ ] S7L147 - Creating all Cards\n[ ] S7L148 - The CSS Grid - The Theory\n[ ] S7L149 - Understanding the "nth-type" Selector & "grid-template-columns"
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day20@100daysofcodechallenge
+DTSTAMP:20250319T000000Z
+DTSTART:20250319T070000Z
+DTEND:20250319T075000Z
+SUMMARY:Day 20 - Your Grid Challenge
+DESCRIPTION:Checklist:\n[ ] S7L150 - Your Grid Challenge\n[ ] S7L151 - Working with Unicode UTF-8\n[ ] S7L152 - Finishing Touches\n[ ] S7L153 - Module Summary\n[ ] S7L154 - Optional: Diving Deeper Into "position", Flexbox & the Grid\n[ ] S8L155 - Module Introduction\n[ ] S8L156 - Project Overview\n[ ] S8L157 - Please Read: Optional Lectures\n[ ] S8L158 - Optional: Your Challenge - Creating the HTML Structure\n[ ] S8L159 - Optional: Challenge Solution - The HTML Structure
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day21@100daysofcodechallenge
+DTSTAMP:20250320T000000Z
+DTSTART:20250320T070000Z
+DTEND:20250320T074700Z
+SUMMARY:Day 21 - Optional: Styling the Header
+DESCRIPTION:Checklist:\n[ ] S8L160 - Optional: Styling the Header\n[ ] S8L161 - Optional: Styling the "main" Section\n[ ] S8L162 - What is Responsive Design?\n[ ] S8L163 - The Problem with Pixels\n[ ] S8L164 - Introducing "em" & "rem"
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day22@100daysofcodechallenge
+DTSTAMP:20250321T000000Z
+DTSTART:20250321T070000Z
+DTEND:20250321T074600Z
+SUMMARY:Day 22 - Applying 'em' & 'rem' for the Font Size
+DESCRIPTION:Checklist:\n[ ] S8L165 - Applying "em" & "rem" for the Font Size\n[ ] S8L166 - Deep Dive: "em" vs "rem" vs "%"\n[ ] S8L167 - Updating the Project Units\n[ ] S8L168 - Comparing Desktop & Mobile First Design\n[ ] S8L169 - Understanding Media Queries
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day23@100daysofcodechallenge
+DTSTAMP:20250322T000000Z
+DTSTART:20250322T070000Z
+DTEND:20250322T075000Z
+SUMMARY:Day 23 - Adding Media Queries to the Project
+DESCRIPTION:Checklist:\n[ ] S8L170 - Adding Media Queries to the Project\n[ ] S8L171 - Your Media Queries Challenge!\n[ ] S8L172 - Side Drawer & Hamburger Icon - The Theory\n[ ] S8L173 - Creating the Hamburger Button\n[ ] S8L174 - Creating the Side Drawer\n[ ] S8L175 - Understanding HTML Fragments
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day24@100daysofcodechallenge
+DTSTAMP:20250323T000000Z
+DTSTART:20250323T070000Z
+DTEND:20250323T075100Z
+SUMMARY:Day 24 - Understanding the Target Selector
+DESCRIPTION:Checklist:\n[ ] S8L176 - Understanding the Target Selector\n[ ] S8L177 - Finishing the Side Drawer\n[ ] S8L178 - Introducing the "z-index" Property\n[ ] S8L179 - Module Summary\n[ ] S9L180 - Module Introduction\n[ ] S9L181 - Three Things to Keep in Mind\n[ ] S9L182 - Introducing the Module Project\n[ ] S9L183 - Sizing & Spacing\n[ ] S9L184 - Choosing the Right Font\n[ ] S9L185 - Understanding The Importance of Grey, Primary & Accent Colors
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day25@100daysofcodechallenge
+DTSTAMP:20250324T000000Z
+DTSTART:20250324T070000Z
+DTEND:20250324T075600Z
+SUMMARY:Day 25 - Introducing CSS Variables / CSS Custom Properties
+DESCRIPTION:Checklist:\n[ ] S9L186 - Introducing CSS Variables / CSS Custom Properties\n[ ] S9L187 - CSS Variables in Action\n[ ] S9L188 - Comparing "root" vs "html" vs "*" Selectors\n[ ] S9L189 - Understanding CSS Transformations\n[ ] S9L190 - Adding CSS Transitions\n[ ] S9L191 - Working with SVGs
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day26@100daysofcodechallenge
+DTSTAMP:20250325T000000Z
+DTSTART:20250325T070000Z
+DTEND:20250325T073800Z
+SUMMARY:Day 26 - What & Why
+DESCRIPTION:Checklist:\n[ ] S10L192 - Module Introduction\n[ ] S10L193 - What & Why\n[ ] S10L194 - Important Form HTML Elements\n[ ] S10L195 - Our First Input Element\n[ ] S10L196 - Adding a Button\n[ ] S10L197 - The Form Element, Form Submission & Different Types of Requests
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day27@100daysofcodechallenge
+DTSTAMP:20250326T000000Z
+DTSTART:20250326T070000Z
+DTEND:20250326T074500Z
+SUMMARY:Day 27 - Styling the Form Element
+DESCRIPTION:Checklist:\n[ ] S10L198 - Styling the Form Element\n[ ] S10L199 - Adding Labels\n[ ] S10L200 - More Detailed Forms Styling\n[ ] S10L201 - Understanding Different Input Types\n[ ] S10L202 - Understanding Email, Numbers, Password & Date Types\n[ ] S10L203 - Working with Radio Buttons
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day28@100daysofcodechallenge
+DTSTAMP:20250327T000000Z
+DTSTART:20250327T070000Z
+DTEND:20250327T074400Z
+SUMMARY:Day 28 - Using Checkboxes
+DESCRIPTION:Checklist:\n[ ] S10L204 - Using Checkboxes\n[ ] S10L205 - The Textarea Element For Longer Text\n[ ] S10L206 - Adding a Dropdown\n[ ] S10L207 - Forms & Semantics (Structuring Forms)\n[ ] S10L208 - More on Form Buttons\n[ ] S10L209 - Validation Attributes\n[ ] S10L210 - More Input & Form Attributes
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day29@100daysofcodechallenge
+DTSTAMP:20250328T000000Z
+DTSTART:20250328T070000Z
+DTEND:20250328T075300Z
+SUMMARY:Day 29 - Challenge: Base Page Structure & Styling
+DESCRIPTION:Checklist:\n[ ] S10L211 - Your Challenge!\n[ ] S10L212 - Challenge: Base Page Structure & Styling\n[ ] S10 Quiz 4 - Learning Check: Web Forms\n[ ] S10L213 - Challenge: First Set of Input Elements\n[ ] S10L214 - Challenge: Adding Remaining Elements\n[ ] S10L215 - Challenge: Submission & Validation\n[ ] S10L216 - Challenge: Styling\n[ ] S11L217 - Module Introduction\n[ ] S11L218 - What is JavaScript & Why would we use it?
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day30@100daysofcodechallenge
+DTSTAMP:20250329T000000Z
+DTSTART:20250329T070000Z
+DTEND:20250329T074500Z
+SUMMARY:Day 30 - Adding the 'script' HTML Element
+DESCRIPTION:Checklist:\n[ ] S11L221 - Adding the "script" HTML Element\n[ ] S11L222 - Working with Values & Basic JavaScript Commands\n[ ] S11L223 - Introducing Variables ("Data Containers")\n[ ] S11L224 - A Closer Look At The JavaScript Syntax\n[ ] S11L225 - A Second Variable & Practice Time!\n[ ] S11L226 - Outsourcing JavaScript Code Into External Files\n[ ] S11L227 - Introducing Arrays (Managing Lists Of Data)\n[ ] S11L228 - Introducing Objects (Grouping Related Data)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day31@100daysofcodechallenge
+DTSTAMP:20250330T000000Z
+DTSTART:20250330T070000Z
+DTEND:20250330T074400Z
+SUMMARY:Day 31 - Splitting Code Across Multiple Lines
+DESCRIPTION:Checklist:\n[ ] S11L229 - Splitting Code Across Multiple Lines\n[ ] S11L230 - Accessing Object Properties\n[ ] S11L231 - Performing Operations\n[ ] S11L232 - Onwards To Custom Commands!\n[ ] S11L233 - Introducing Functions\n[ ] S11L234 - Functions & Variables\n[ ] S11L235 - Returning Values In Functions\n[ ] S11L236 - Passing Data Into Functions With Parameters\n[ ] S11L237 - Functions - A Summary
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day32@100daysofcodechallenge
+DTSTAMP:20250331T000000Z
+DTSTART:20250331T070000Z
+DTEND:20250331T075700Z
+SUMMARY:Day 32 - Introducing Methods
+DESCRIPTION:Checklist:\n[ ] S11L238 - Time To Practice: The Problem\n[ ] S11L239 - Time To Practice: The Solution\n[ ] S11L240 - Introducing Methods\n[ ] S11L241 - Making Our Developer Life Easier (Logging with console.log())\n[ ] S11L242 - Math Operations & Working With Different Kinds Of Values\n[ ] S11L243 - The Modulus Operator\n[ ] S11L244 - Math Operations & Math Rules\n[ ] S11L245 - Performing String (Text) Operations\n[ ] S11L246 - JavaScript Operators, Shorthand Operators & Value Types\n[ ] S11L247 - String Operations & String Methods
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day33@100daysofcodechallenge
+DTSTAMP:20250401T000000Z
+DTSTART:20250401T070000Z
+DTEND:20250401T074500Z
+SUMMARY:Day 33 - Basic Array Operations
+DESCRIPTION:Checklist:\n[ ] S11L248 - Basic Array Operations\n[ ] S11L249 - Splitting JavaScript Code Across Multiple Files\n[ ] S11L250 - Module Summary\n[ ] S11 Quiz 5 - Learning Check: JavaScript Basics\n[ ] S12L251 - Module Introduction\n[ ] S12L252 - Our Starting Setup\n[ ] S12L253 - The Global "window" & "document" Objects\n[ ] S12L254 - What Is "The DOM"?\n[ ] S12L255 - Exploring The DOM\n[ ] S12L256 - Drilling Into The DOM To Select & Change HTML Elements\n[ ] S12L257 - Loading Our Script Correctly\n[ ] S12L258 - The DOM Tree & DOM Traversal
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day34@100daysofcodechallenge
+DTSTAMP:20250402T000000Z
+DTSTART:20250402T070000Z
+DTEND:20250402T074900Z
+SUMMARY:Day 34 - Drilling Into The DOM & Exploring Text Nodes
+DESCRIPTION:Checklist:\n[ ] S12L259 - Drilling Into The DOM & Exploring Text Nodes\n[ ] S12L260 - DOM Drilling Limitations\n[ ] S12L261 - Searching The DOM For Elements\n[ ] S12L262 - Querying Elements\n[ ] S12L263 - Common Query Methods\n[ ] S12L264 - Time to Practice: The Problem\n[ ] S12L265 - Time to Practice: The Solution\n[ ] S12L266 - Next Steps\n[ ] S12L267 - Inserting New HTML Elements via JavaScript
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day35@100daysofcodechallenge
+DTSTAMP:20250403T000000Z
+DTSTART:20250403T070000Z
+DTEND:20250403T073900Z
+SUMMARY:Day 35 - Deleting DOM Elements
+DESCRIPTION:Checklist:\n[ ] S12L268 - Deleting DOM Elements\n[ ] S12L269 - Moving Existing Elements Around\n[ ] S12L270 - Working with "innerHTML"\n[ ] S12 Quiz 6 - Learning Check: JavaScript & The DOM\n[ ] S12L271 - Introducing Events\n[ ] S12L272 - Adding a First "click" Event Listener\n[ ] S12L273 - Listening To User Input Events\n[ ] S12L274 - The "event" Object\n[ ] S12 Quiz 7 - Learning Check: JavaScript & DOM Events
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day36@100daysofcodechallenge
+DTSTAMP:20250404T000000Z
+DTSTART:20250404T070000Z
+DTEND:20250404T075400Z
+SUMMARY:Day 36 - A More Realistic Demo & Example
+DESCRIPTION:Checklist:\n[ ] S12L275 - A More Realistic Demo & Example\n[ ] S12L276 - Introducing "Constant Variables" ("Constants")\n[ ] S12L277 - Changing Element Styles With JavaScript\n[ ] S12L278 - Managing CSS Classes With JavaScript\n[ ] S12L279 - Module Summary
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day37@100daysofcodechallenge
+DTSTAMP:20250405T000000Z
+DTSTART:20250405T070000Z
+DTEND:20250405T074900Z
+SUMMARY:Day 37 - Getting Started with "Control Structures"
+DESCRIPTION:Checklist:\n[ ] S13L282 - Module Introduction\n[ ] S13L283 - Getting Started with "Control Structures"\n[ ] S13L284 - Introducing Boolean Values ("Booleans") & Comparison Operators\n[ ] S13L285 - Booleans & Comparison Operators In Action\n[ ] S13L286 - Using Booleans In "if" Statements (Conditional Code Execution)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day38@100daysofcodechallenge
+DTSTAMP:20250406T000000Z
+DTSTART:20250406T070000Z
+DTEND:20250406T074600Z
+SUMMARY:Day 38 - A Real Example and Loops Introduction
+DESCRIPTION:Checklist:\n[ ] S13L287 - A Real Example\n[ ] S13L288 - Alternatives with "else" and "else if"\n[ ] S13L289 - More on Boolean Values\n[ ] S13L290 - "Truthy" & "Falsy" Values\n[ ] S13 Quiz 8 - Learning Check: "if" Statements\n[ ] S13L291 - Introducing Loops (Repeated Code Execution)\n[ ] S13L292 - The Regular "for" Loop\n[ ] S13L293 - The "for-of" Loop (for Arrays)\n[ ] S13L294 - Using the Regular "for" Loop with Arrays\n[ ] S13L295 - The "for-in" Loop (for Objects)\n[ ] S13L296 - The "while" Loop
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day39@100daysofcodechallenge
+DTSTAMP:20250407T000000Z
+DTSTART:20250407T070000Z
+DTEND:20250407T074900Z
+SUMMARY:Day 39 - Practice Time with Loops
+DESCRIPTION:Checklist:\n[ ] S13L297 - Practice Time: Setup & The "for" Loop\n[ ] S13L298 - Practice Time: The "for-of" Loop\n[ ] S13L299 - Practice Time: The "for-in" Loop\n[ ] S13L300 - Practice Time: The "while" Loop\n[ ] S13L301 - Module Summary\n[ ] S13 Quiz 9 - Learning Checks: Loops
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day40@100daysofcodechallenge
+DTSTAMP:20250408T000000Z
+DTSTART:20250408T070000Z
+DTEND:20250408T074400Z
+SUMMARY:Day 40 - Planning The Project
+DESCRIPTION:Checklist:\n[ ] S14L302 - Module Introduction\n[ ] S14L303 - Planning The Project\n[ ] S14L304 - Creating The HTML Structure\n[ ] S14L305 - Adding Base Page Styles
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day41@100daysofcodechallenge
+DTSTAMP:20250409T000000Z
+DTSTART:20250409T070000Z
+DTEND:20250409T075100Z
+SUMMARY:Day 41 - Adding Styling for the Game Configuration Area
+DESCRIPTION:Checklist:\n[ ] S14L306 - Adding Styling For The Game Configuration Area\n[ ] S14L307 - Styling The Game Board\n[ ] S14L308 - Adding JavaScript, Script Files & First Event Listeners\n[ ] S14L309 - Showing & Hiding The Configuration Modal (Overlay)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day42@100daysofcodechallenge
+DTSTAMP:20250410T000000Z
+DTSTART:20250410T070000Z
+DTEND:20250410T075300Z
+SUMMARY:Day 42 - Handling Form Submission With JavaScript
+DESCRIPTION:Checklist:\n[ ] S14L310 - Handling Form Submission With JavaScript\n[ ] S14L311 - Validating User Input With JavaScript\n[ ] S14L312 - Storing & Managing Submitted Data
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day43@100daysofcodechallenge
+DTSTAMP:20250411T000000Z
+DTSTART:20250411T070000Z
+DTEND:20250411T073900Z
+SUMMARY:Day 43 - Adding Game Logic
+DESCRIPTION:Checklist:\n[ ] S14L313 - Adding Logic For Starting A Game\n[ ] S14L314 - Managing Game Rounds (Turns) & Field Selection\n[ ] S14L315 - Tracking Selected Fields On The Game Board
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day44@100daysofcodechallenge
+DTSTAMP:20250412T000000Z
+DTSTART:20250412T070000Z
+DTEND:20250412T074800Z
+SUMMARY:Day 44 - Checking For a Winner or Draw
+DESCRIPTION:Checklist:\n[ ] S14L316 - Checking For A Winner Or Draw\n[ ] S14L317 - Ending The Game & Adding Restart Logic\n[ ] S14L318 - Module Summary
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day45@100daysofcodechallenge
+DTSTAMP:20250413T000000Z
+DTSTART:20250413T070000Z
+DTEND:20250413T075100Z
+SUMMARY:Day 45 - Third-Party Code vs Custom Code
+DESCRIPTION:Checklist:\n[ ] S15L319 - Module Introduction\n[ ] S15L320 - What & Why?\n[ ] S15L321 - Third-Party Code vs Custom Code (\"Your Own Code\")\n[ ] S15L322 - First Example: Adding Bootstrap For Some Default Styling\n[ ] S15L323 - Adding & Using the Bootstrap CSS Package\n[ ] S15L324 - Adding a JavaScript Package\n[ ] S15L325 - Adding an Image Carousel / Gallery with a Third-Party Package\n[ ] S15L326 - Combining Third-Party Packages With Custom Code\n[ ] S15L327 - More Bootstrap Examples\n[ ] S15L328 - Exercise Solution & First Summary\n[ ] S15L329 - Another Example: Preparing a Parallax Page
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day46@100daysofcodechallenge
+DTSTAMP:20250414T000000Z
+DTSTART:20250414T070000Z
+DTEND:20250414T073700Z
+SUMMARY:Day 46 - Leaving Frontend & Moving to Backend
+DESCRIPTION:Checklist:\n[ ] S15L330 - Adding A Parallax Effect Package\n[ ] S15L331 - Viewing Third-Party Source Code & Module Summary\n[ ] S16L332 - Module Introduction\n[ ] S16L333 - What is "The Backend" & Why Do We Need Server-side Code?\n[ ] S16L334 - Dynamic Websites vs Static Websites\n[ ] S16L335 - Frontend vs Backend vs Fullstack Development\n[ ] S16L336 - Choosing a Backend (Server-side) Programming Language\n[ ] S16 Quiz 10 - Learning Check: Frontend vs Backend
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day47@100daysofcodechallenge
+DTSTAMP:20250415T000000Z
+DTSTART:20250415T070000Z
+DTEND:20250415T075200Z
+SUMMARY:Day 47 - Installing NodeJS
+DESCRIPTION:Checklist:\n[ ] S17L337 - Module Introduction\n[ ] S17L338 - Installing NodeJS\n[ ] S17L339 - Executing NodeJS Code\n[ ] S17L340 - Creating a Custom NodeJS Server\n[ ] S17L341 - Handling Requests & Creating Custom Responses\n[ ] S17L342 - Doing More Server-side Work\n[ ] S17 Quiz 11 - Learning Check: NodeJS Basics\n[ ] S17L343 - Summary
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day48@100daysofcodechallenge
+DTSTAMP:20250416T000000Z
+DTSTART:20250416T070000Z
+DTEND:20250416T075900Z
+SUMMARY:Day 48 - Installing Express with npm
+DESCRIPTION:Checklist:\n[ ] S18L344 - Module Introduction\n[ ] S18L345 - Installing Express with "npm"\n[ ] S18L346 - Creating a Server with Express & Handling Requests + Responses\n[ ] S18L347 - Parsing User Data With Express\n[ ] S18L348 - Storing Data in (Server-side) Files
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day49@100daysofcodechallenge
+DTSTAMP:20250417T000000Z
+DTSTART:20250417T070000Z
+DTEND:20250417T074700Z
+SUMMARY:Day 49 - Dynamic Content with Express
+DESCRIPTION:Checklist:\n[ ] S18L349 - More About The "JSON" Format\n[ ] S18L350 - Reading File Data & Returning Dynamic Responses (Dynamic HTML Code)\n[ ] S18L351 - Enhancing the Developer Workflow with "nodemon"\n[ ] S18 Quiz 12 - Learning Check: ExpressJS Basics\n[ ] S19L353 - Module Introduction\n[ ] S19L354 - Creating a Starting Project & What Needs To Change\n[ ] S19L355 - Setting Up A Basic Express App (incl. Practice)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day50@100daysofcodechallenge
+DTSTAMP:20250418T000000Z
+DTSTART:20250418T070000Z
+DTEND:20250418T074600Z
+SUMMARY:Day 50 - Serving Static Files & Using EJS
+DESCRIPTION:Checklist:\n[ ] S19L357 - Serving Static Files (CSS & JavaScript)\n[ ] S19L358 - Parsing Form Data & Redirecting Requests\n[ ] S19L359 - Adding the EJS Template Engine\n[ ] S19L360 - Rendering Dynamic Content With Templates\n[ ] S19L361 - Outputting Repeated Content With EJS & Loops\n[ ] S19L362 - Rendering Conditional Content
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day51@100daysofcodechallenge
+DTSTAMP:20250419T000000Z
+DTSTART:20250419T070000Z
+DTEND:20250419T075000Z
+SUMMARY:Day 51 - Including Partial Content & Dynamic Routes
+DESCRIPTION:Checklist:\n[ ] S19L363 - Including Partial Content\n[ ] S19L364 - EJS & IDE Support\n[ ] S19L365 - Module Summary\n[ ] S19 Quiz 13 - Learning Check: Static & Dynamic Content\n[ ] S20L366 - Module Introduction\n[ ] S20L367 - Introducing Dynamic Routes\n[ ] S20L368 - Managing Data with Unique IDs
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day52@100daysofcodechallenge
+DTSTAMP:20250420T000000Z
+DTSTART:20250420T070000Z
+DTEND:20250420T074600Z
+SUMMARY:Day 52 - Loading & Displaying Detail Data
+DESCRIPTION:Checklist:\n[ ] S20L369 - Loading & Displaying Detail Data\n[ ] S20L370 - Showing a 404 Page For \"Not Found\" Cases\n[ ] S20L371 - More 404 Page Usage (Non-Existent Routes)\n[ ] S20L372 - Handling Server-Side Errors (500 Status Code)\n[ ] S20L373 - Working With Status Codes\n[ ] S20L374 - Code Refactoring & Adding More Functions
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day53@100daysofcodechallenge
+DTSTAMP:20250421T000000Z
+DTSTART:20250421T070000Z
+DTEND:20250421T075100Z
+SUMMARY:Day 53 - Advanced Express Features
+DESCRIPTION:Checklist:\n[ ] S20L375 - Importing & Exporting Code In NodeJS\n[ ] S20L376 - Using The Express Router To Split The Route Configuration\n[ ] S20L377 - Introducing Query Parameters (& Hidden Form Fields)\n[ ] S20L378 - Query Parameters vs Route Parameters\n[ ] S20L379 - Module Summary\n[ ] S20 Quiz 14 - Learning Check: Advanced Express Features
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day54@100daysofcodechallenge
+DTSTAMP:20250422T000000Z
+DTSTART:20250422T070000Z
+DTEND:20250422T075100Z
+SUMMARY:Day 54 - Functions & Default Parameters
+DESCRIPTION:Checklist:\n[ ] S21L380 - Module Introduction\n[ ] S21L381 - Functions & Default Parameters\n[ ] S21L382 - Rest Parameters & The Spread Operator\n[ ] S21L383 - Functions Are Objects!\n[ ] S21L384 - Working with Template Literals\n[ ] S21L385 - Primitive vs Reference Values
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day55@100daysofcodechallenge
+DTSTAMP:20250423T000000Z
+DTSTART:20250423T070000Z
+DTEND:20250423T074500Z
+SUMMARY:Day 55 - Custom Error Handling & Object Concepts
+DESCRIPTION:Checklist:\n[ ] S21L386 - Custom Error Handling With try / catch\n[ ] S21L387 - Error Data & Throwing Custom Errors\n[ ] S21L388 - Variable Scoping & Shadowing\n[ ] S21 Quiz 15 - Learning Check: More Advanced JavaScript Concepts\n[ ] S21L389 - Introducing Classes As Object Blueprints\n[ ] S21L390 - Classes & Methods (and \"this\")\n[ ] S21L391 - Destructuring Objects & Arrays\n[ ] S21 Quiz 16 - Learning Check: More on Objects
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day56@100daysofcodechallenge
+DTSTAMP:20250424T000000Z
+DTSTART:20250424T070000Z
+DTEND:20250424T074500Z
+SUMMARY:Day 56 - Asynchronous Code & Databases Intro
+DESCRIPTION:Checklist:\n[ ] S21L392 - Diving Into Asynchronous Code & Callback Functions\n[ ] S21L393 - Introducing Promises\n[ ] S21L394 - Asynchronous Code & Error Handling\n[ ] S21L395 - Improving Code With async / await\n[ ] S21 Quiz 17 - Learning Check: Asynchronous Code\n[ ] S21L396 - Module Summary\n[ ] S22L397 - Module Introduction\n[ ] S22L398 - Why Databases? And What Are Databases In The First Place?
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day57@100daysofcodechallenge
+DTSTAMP:20250425T000000Z
+DTSTART:20250425T070000Z
+DTEND:20250425T075100Z
+SUMMARY:Day 57 - SQL Databases Overview
+DESCRIPTION:Checklist:\n[ ] S22L399 - A Quick Introduction To SQL Databases (RDBMS)\n[ ] S22L400 - A Quick Introduction To NoSQL Databases\n[ ] S22L401 - SQL vs NoSQL Databases\n[ ] S22 Quiz 18 - Learning Check: Databases Introduction\n[ ] S23L402 - Module Introduction\n[ ] S23L403 - What & Why?\n[ ] S23L404 - RDBMS Options\n[ ] S23L405 - Installing MySQL & Setup Steps\n[ ] S23L406 - Database Server vs Databases vs Tables\n[ ] S23L407 - Writing Our First SQL Code & Creating a Database
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day58@100daysofcodechallenge
+DTSTAMP:20250426T000000Z
+DTSTART:20250426T070000Z
+DTEND:20250426T074600Z
+SUMMARY:Day 58 - Creating Tables & Inserting Data (SQL)
+DESCRIPTION:Checklist:\n[ ] S23L408 - Creating a Table & Table Structure\n[ ] S23L409 - Inserting Data Into A Table\n[ ] S23L410 - Reading Data From A Table (incl. Filtering)\n[ ] S23L411 - Updating & Deleting Data\n[ ] S23L412 - Designing A More Complex Database\n[ ] S23L413 - Adding A New Table
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day59@100daysofcodechallenge
+DTSTAMP:20250427T000000Z
+DTSTART:20250427T070000Z
+DTEND:20250427T075600Z
+SUMMARY:Day 59 - SQL Relationships and Joins
+DESCRIPTION:Checklist:\n[ ] S23L414 - Implementing A More Complex Design With Relations\n[ ] S23L415 - Inserting Related Data\n[ ] S23L416 - Practice: Inserting Related Data\n[ ] S23L417 - Querying & Joining Related Data\n[ ] S23L418 - Practice: Joining Data\n[ ] S23L419 - Module Summary & More On Relationships\n[ ] S23 Quiz 19 - Learning Check: SQL Introduction
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day60@100daysofcodechallenge
+DTSTAMP:20250428T000000Z
+DTSTART:20250428T070000Z
+DTEND:20250428T073900Z
+SUMMARY:Day 60 - Database-Accessing Code on the Backend
+DESCRIPTION:Checklist:\n[ ] S24L420 - Module Introduction\n[ ] S24L421 - Why Should Database-Accessing Code Run On The Backend?\n[ ] S24L422 - What We'll Build In This Section\n[ ] S24L423 - Planning Our Database Structure\n[ ] S24L424 - Database Initialization\n[ ] S24L425 - Project Setup\n[ ] S24L426 - Creating Our First Routes
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day61@100daysofcodechallenge
+DTSTAMP:20250429T000000Z
+DTSTART:20250429T070000Z
+DTEND:20250429T074400Z
+SUMMARY:Day 61 - Connecting To the Database
+DESCRIPTION:Checklist:\n[ ] S24L427 - Connecting To The Database & Querying Data\n[ ] S24L428 - Inserting Data With Placeholders (Injecting Dynamic Data)\n[ ] S24L429 - Fetching & Displaying a List Of Blog Posts
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day62@100daysofcodechallenge
+DTSTAMP:20250430T000000Z
+DTSTART:20250430T070000Z
+DTEND:20250430T074700Z
+SUMMARY:Day 62 - Fetching & Updating a Blog Post
+DESCRIPTION:Checklist:\n[ ] S24L430 - Fetching & Displaying a Single Blog Post\n[ ] S24L431 - Formatting & Transforming Fetched Data\n[ ] S24L432 - Preparing The \"Update Post\" Page\n[ ] S24L433 - Updating Posts\n[ ] S24L434 - Deleting Posts\n[ ] S24L435 - Module Summary
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day63@100daysofcodechallenge
+DTSTAMP:20250501T000000Z
+DTSTART:20250501T070000Z
+DTEND:20250501T075500Z
+SUMMARY:Day 63 - Introduction to NoSQL (MongoDB)
+DESCRIPTION:Checklist:\n[ ] S25L436 - Module Introduction\n[ ] S25L437 - The Idea Behind NoSQL Database Systems\n[ ] S25L438 - Introducing MongoDB\n[ ] S25L439 - General Setup Instructions & Installing MongoDB on macOS\n[ ] S25L440 - Installing MongoDB on Windows\n[ ] S25L441 - Installing the MongoDB Shell\n[ ] S25L442 - Inserting Data with MongoDB
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day64@100daysofcodechallenge
+DTSTAMP:20250502T000000Z
+DTSTART:20250502T070000Z
+DTEND:20250502T074400Z
+SUMMARY:Day 64 - Reading & Filtering Data (MongoDB)
+DESCRIPTION:Checklist:\n[ ] S25L443 - Reading & Filtering Data\n[ ] S25L444 - Updating Documents In A MongoDB Database\n[ ] S25L445 - Deleting Documents With MongoDB\n[ ] S25L446 - Planning a Complete Database Design / Layout\n[ ] S25L447 - Implementing the Planned Design & Layout\n[ ] S25L448 - Practice Time & More Filtering Operators
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day65@100daysofcodechallenge
+DTSTAMP:20250503T000000Z
+DTSTART:20250503T070000Z
+DTEND:20250503T075600Z
+SUMMARY:Day 65 - Planning the NoSQL Database Structure
+DESCRIPTION:Checklist:\n[ ] S26L449 - Module Introduction\n[ ] S26L450 - Planning the Database Structure & Layout\n[ ] S26L451 - Project & Database Initialization\n[ ] S26L452 - Connecting to MongoDB (from inside NodeJS)\n[ ] S26L453 - Fetching & Displaying A List Of Authors\n[ ] S26L454 - Inserting Documents (New Posts)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day66@100daysofcodechallenge
+DTSTAMP:20250504T000000Z
+DTSTART:20250504T070000Z
+DTEND:20250504T074200Z
+SUMMARY:Day 66 - Working with MongoDB Documents
+DESCRIPTION:Checklist:\n[ ] S26L455 - Fetching & Displaying Documents\n[ ] S26L456 - Fetching a Single Document\n[ ] S26L457 - Transforming & Preparing Data\n[ ] S26L458 - Updating Documents\n[ ] S26L459 - Deleting Documents
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day67@100daysofcodechallenge
+DTSTAMP:20250505T000000Z
+DTSTART:20250505T070000Z
+DTEND:20250505T074700Z
+SUMMARY:Day 67 - Handling File Uploads with Multer
+DESCRIPTION:Checklist:\n[ ] S26L460 - ExpressJS & Handling Asynchronous Code Errors\n[ ] S27L461 - Module Introduction\n[ ] S27L462 - The Two Sides Of Uploading Files & Setting Up A Starting Project\n[ ] S27L463 - Adding A File Picker To A Form\n[ ] S27L464 - Parsing Incoming File Uploads With The \"multer\" Package\n[ ] S27L465 - How To Store Files On A Backend\n[ ] S27L466 - Configuring Multer In-Depth
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day68@100daysofcodechallenge
+DTSTAMP:20250506T000000Z
+DTSTART:20250506T070000Z
+DTEND:20250506T074800Z
+SUMMARY:Day 68 - Storing and Serving Uploaded Files
+DESCRIPTION:Checklist:\n[ ] S27L467 - Storing File Data In A Database (And What NOT To Store)\n[ ] S27L468 - Serving Uploaded Files To Website Visitors\n[ ] S27L469 - Adding An Image Preview Feature\n[ ] S27L470 - Module Summary\n[ ] S27 Quiz 20 - Learning Check: File Uploads
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day69@100daysofcodechallenge
+DTSTAMP:20250507T000000Z
+DTSTART:20250507T070000Z
+DTEND:20250507T075700Z
+SUMMARY:Day 69 - Ajax Requests: GET and POST
+DESCRIPTION:Checklist:\n[ ] S28L471 - Module Introduction\n[ ] S28L472 - What Is Ajax? And Why Would We Need It?\n[ ] S28L473 - What is \"Ajax\"?\n[ ] S28L474 - The Starting Project & A Problem\n[ ] S28L475 - Sending & Handling a GET Ajax Request\n[ ] S28L476 - Updating The DOM Based On The Response\n[ ] S28L477 - Preparing The POST Request Data\n[ ] S28L478 - Sending & Handling a POST Ajax Request
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day70@100daysofcodechallenge
+DTSTAMP:20250508T000000Z
+DTSTART:20250508T070000Z
+DTEND:20250508T074600Z
+SUMMARY:Day 70 - Improving User Experience & HTTP Methods
+DESCRIPTION:Checklist:\n[ ] S28L479 - Improving The User Experience (UX)\n[ ] S28L480 - Handling Errors (Server-side & Technical)\n[ ] S28L481 - We Now Have More HTTP Methods!\n[ ] S28L482 - Module Summary\n[ ] S28 Quiz 21 - Learning Check: Ajax / JS-driven HTTP Requests\n[ ] S29L483 - Module Introduction\n[ ] S29L484 - What is \"Authentication\" & Why Would You Want To Add It To A Website?
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day71@100daysofcodechallenge
+DTSTAMP:20250509T000000Z
+DTSTART:20250509T070000Z
+DTEND:20250509T074600Z
+SUMMARY:Day 71 - User Authentication Basics
+DESCRIPTION:Checklist:\n[ ] S29L487 - Must-Do: Hashing Passwords\n[ ] S29L488 - Adding User Login Functionality\n[ ] S29L489 - Validating Signup Information\n[ ] S29L490 - Introducing Sessions & Cookies - The Stars Of Authentication\n[ ] S29L491 - Adding Sessions Support To Our Website
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day72@100daysofcodechallenge
+DTSTAMP:20250510T000000Z
+DTSTART:20250510T070000Z
+DTEND:20250510T075000Z
+SUMMARY:Day 72 - Sessions and Cookies
+DESCRIPTION:Checklist:\n[ ] S29L492 - Storing Authentication Data In Sessions\n[ ] S29L493 - Using Sessions & Cookies For Controlling Access\n[ ] S29L494 - Adding The Logout Functionality\n[ ] S29L495 - A Closer Look At Cookies\n[ ] S29L496 - Diving Deeper Into Sessions (Beyond Authentication)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day73@100daysofcodechallenge
+DTSTAMP:20250511T000000Z
+DTSTART:20250511T070000Z
+DTEND:20250511T073500Z
+SUMMARY:Day 73 - Authorization vs Authentication
+DESCRIPTION:Checklist:\n[ ] S29L497 - Authorization vs Authentication\n[ ] S29L498 - Practicing Sessions & Working With Sessions\n[ ] S29L499 - Writing Custom Middlewares & Using \"res.locals\"\n[ ] S29L500 - Module Summary\n[ ] S29 Quiz 22 - Learning Check: Authentication
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:day74@100daysofcodechallenge
+DTSTAMP:20250512T000000Z
+DTSTART:20250512T070000Z
+DTEND:20250512T075500Z
+SUMMARY:Day 74 - Authentication vs Website Security
+DESCRIPTION:Checklist:\n[ ] S30L501 - Module Introduction\n[ ] S30L502 - Authentication vs Website Security\n[ ] S30L503 - Understanding CSRF Attacks\n[ ] S30L504 - Partial CSRF Protection With \"Same-Site\" Cookies\n[ ] S30L505 - Implementing A Better CSRF Protection
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder 5 minutes before start
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Event starting now
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
