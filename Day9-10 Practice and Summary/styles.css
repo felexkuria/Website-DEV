@@ -47,11 +47,32 @@
 #hero-content a:hover {
   background-color: rgb(255, 238, 0);
 }
+#highlights h2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 28px;
+}
 #destinations {
   display: flex;
   margin: 0 auto;
   width: 90%;
 }
+.destination {
+  margin: 0 20px;
+}
 .destination img {
   height: 200px;
+  width: 100%;
+  box-shadow: 2px 4px 8px rgb(68, 67, 67);
+  border-radius: 8px;
+  object-fit: cover;
+}
+.destination p {
+  text-align: center;
+  text-transform: capitalize;
+  color: rgb(43, 65, 64);
+  margin: 24px 0;
+}
+.destination strong {
+  color: green;
 }
