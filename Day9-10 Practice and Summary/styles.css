@@ -47,6 +47,10 @@
 #hero-content a:hover {
   background-color: rgb(255, 238, 0);
 }
+#highlights {
+  padding: 24px;
+  background: linear-gradient(45deg, rgb(227, 255, 253), rgb(188, 240, 237));
+}
 #highlights h2 {
   text-transform: uppercase;
   text-align: center;
