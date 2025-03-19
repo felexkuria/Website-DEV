@@ -5,21 +5,45 @@ body {
 header {
   position: static;
 }
-main ul {
+/* main ul {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+} */
+/* main ul {
   width: 800px;
   margin: 0 auto;
   box-shadow: 1px 1px 4px rgba(0, 0, 0, 0, 0.2);
   border-radius: 6px;
   overflow: visible;
-}
-main li {
+} */
+/* main li {
   display: flex;
   background-color: white;
-}
+} */
 main li img {
   width: 300px;
   height: 280px;
+  border-radius: 8px;
 }
-.item-content {
+/* .item-content {
   padding: 24px;
+} */
+.card {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.card-content {
+  padding: 24px;
+}
+.card-content h2 {
+  margin: 0;
 }
