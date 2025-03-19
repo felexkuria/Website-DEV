@@ -104,3 +104,7 @@ main li img {
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   text-align: left;
 }
+.toy:nth-of-type(3) {
+  background-color: #333;
+  color: white;
+}
