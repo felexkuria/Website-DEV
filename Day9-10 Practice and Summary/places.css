@@ -24,16 +24,24 @@ header {
   background-color: white;
 } */
 /* Fix for bottom image gap - images are inline elements by default which respect line height and descenders */
-main li img {
+main ul li img {
   width: 300px;
   height: 280px;
   object-fit: cover;
-  border-radius: 6px 0 0 6px;
-  display: block; /* Removes the bottom space */
+  border-radius: 6px;
+  display: block;
+
+  /* Removes the bottom space */
 }
-/* .item-content {
-  padding: 24px;
-} */
+main ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px 10px;
+}
+main ul li:nth-of-type(3) {
+  grid-column: span 2;
+}
+
 .card {
   display: flex;
   justify-content: space-between;
@@ -85,7 +93,7 @@ main li img {
   size: 80%;
 }
 /* Grid theory styling for the treasure map */
-.treasure-map {
+/* .treasure-map {
   size: 200px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -94,9 +102,9 @@ main li img {
   background: pink;
   border-radius: 8px;
   margin: 20px auto;
-}
+} */
 
-.toy {
+/* .toy {
   font-size: 25px;
   background: white;
   padding: 10px;
@@ -107,4 +115,4 @@ main li img {
 .toy:nth-of-type(3) {
   background-color: #333;
   color: white;
-}
+} */
