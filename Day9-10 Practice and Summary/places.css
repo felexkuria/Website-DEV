@@ -22,10 +22,13 @@ header {
   display: flex;
   background-color: white;
 } */
+/* Fix for bottom image gap - images are inline elements by default which respect line height and descenders */
 main li img {
   width: 300px;
   height: 280px;
-  border-radius: 8px;
+  object-fit: cover;
+  border-radius: 6px 0 0 6px;
+  display: block; /* Removes the bottom space */
 }
 /* .item-content {
   padding: 24px;
@@ -35,15 +38,48 @@ main li img {
   justify-content: space-between;
   flex-direction: row;
   align-items: center;
+  overflow: hidden;
   margin: 20px;
-  padding: 10px;
+  /* padding: 10px; */
   border-radius: 10px;
   background-color: white;
   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
 }
 .card-content {
   padding: 24px;
+  width: 100%;
 }
-.card-content h2 {
+
+.card-tittle {
+  font-size: 18px;
+  color: #333;
+  font-weight: 100;
   margin: 0;
+}
+.card-text {
+  font-size: 16px;
+  color: #333;
+  font-weight: 100;
+}
+.card-link {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  text-decoration: none;
+}
+.card-link a {
+  text-decoration: none;
+  padding-right: 8px;
+  color: #96eaf9;
+  font-weight: 700;
+  letter-spacing: 2;
+  font-size: 16px;
+}
+.card-link a:hover {
+  padding: 8px;
+  background-color: rgba(163, 241, 250, 0.2);
+}
+.card-link i {
+  color: #96eaf9;
+  size: 80%;
 }
