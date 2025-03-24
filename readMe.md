@@ -317,7 +317,7 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 <summary>Day 35 – Deleting DOM Elements</summary>
 
 - [x] S12L268 - Deleting DOM Elements
-- [ ] S12L269 - Moving Existing Elements Around
+- [x] S12L269 - Moving Existing Elements Around
 - [ ] S12L270 - Working with “innerHTML”
 - [ ] S12 Quiz 6 - Learning Check: JavaScript & The DOM
 - [ ] S12L271 - Introducing Events
