@@ -3,6 +3,7 @@ let h1 = console.log(window.document.body["children"][0]["innerText"]);
 let heading = document.getElementById("heading");
 console.log(heading);
 heading.innerHTML = "My Title";
+heading.remove();
 // 1. Select the <h1> element by "drilling into the DOM" and 
 //    save it in a variable with a name of your choice
 let p = console.dir(window.document.body["children"][1]["innerHTML"]);
@@ -13,8 +14,11 @@ console.log(shoppingItem.value);
 const submitButton = document.getElementById('submit');
 
 submitButton.addEventListener('click', function () {
+    //create a new list item
+    // stored in memory but not yet added to the DOM
     const newItem = document.createElement('li');
     newItem.textContent = shoppingItem.value;
+    //to add list to the DOM use appendChild or append the pass item to be appended
     document.body.appendChild(newItem);
 });
 // 2. Use the variable from (1) and get access to the "parent"

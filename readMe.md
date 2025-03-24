@@ -300,23 +300,23 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 <summary>Day 34 – Drilling Into The DOM & Exploring Text Nodes</summary>
 
 - [x] S12L259 - Drilling Into The DOM & Exploring Text Nodes
-- [ ] S12L257 - Loading Our Script Correctly
-- [ ] S12L258 - The DOM Tree & DOM Traversal
-- [ ] S12L260 - DOM Drilling Limitations
-- [ ] S12L261 - Searching The DOM For Elements
-- [ ] S12L262 - Querying Elements
-- [ ] S12L263 - Common Query Methods
-- [ ] S12L264 - Time to Practice: The Problem
-- [ ] S12L265 - Time to Practice: The Solution
-- [ ] S12L266 - Next Steps
-- [ ] S12L267 - Inserting New HTML Elements via JavaScript
+- [x] S12L257 - Loading Our Script Correctly
+- [x] S12L258 - The DOM Tree & DOM Traversal
+- [x] S12L260 - DOM Drilling Limitations
+- [x] S12L261 - Searching The DOM For Elements
+- [x] S12L262 - Querying Elements
+- [x] S12L263 - Common Query Methods
+- [x] S12L264 - Time to Practice: The Problem
+- [x] S12L265 - Time to Practice: The Solution
+- [x] S12L266 - Next Steps
+- [x] S12L267 - Inserting New HTML Elements via JavaScript
 
 </details>
 
 <details>
 <summary>Day 35 – Deleting DOM Elements</summary>
 
-- [ ] S12L268 - Deleting DOM Elements
+- [x] S12L268 - Deleting DOM Elements
 - [ ] S12L269 - Moving Existing Elements Around
 - [ ] S12L270 - Working with “innerHTML”
 - [ ] S12 Quiz 6 - Learning Check: JavaScript & The DOM
