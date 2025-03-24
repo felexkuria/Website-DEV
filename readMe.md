@@ -1,5 +1,5 @@
 100 Days of Code Challenge – Progress Tracker
-Below is a daily checklist to track your progress from Day 16 to Day 100. Day 83 0f 100
+Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84 0f 100
 
 <details>
 <summary>Day 16 – Your Flexbox Challenge! ✅</summary>

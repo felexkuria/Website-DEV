@@ -1,8 +1,22 @@
 // Exercise Time!
-let h1 = console.dir(window.document.body["children"][0]["innerHTML"]);
-
+let h1 = console.log(window.document.body["children"][0]["innerText"]);
+let heading = document.getElementById("heading");
+console.log(heading);
+heading.innerHTML = "My Title";
 // 1. Select the <h1> element by "drilling into the DOM" and 
 //    save it in a variable with a name of your choice
+let p = console.dir(window.document.body["children"][1]["innerHTML"]);
+let p1 = document.querySelector(".paragraph");
+p1.innerText = "My Paragrah";
+const shoppingItem = document.getElementById('name');
+console.log(shoppingItem.value);
+const submitButton = document.getElementById('submit');
+
+submitButton.addEventListener('click', function () {
+    const newItem = document.createElement('li');
+    newItem.textContent = shoppingItem.value;
+    document.body.appendChild(newItem);
+});
 // 2. Use the variable from (1) and get access to the "parent"
 //    element of the stored <h1> element (i.e. to the <body> element)
 //    BONUS: Try using the variable from (1) to get access to the 
@@ -13,4 +27,5 @@ let h1 = console.dir(window.document.body["children"][0]["innerHTML"]);
 //    need to add something in the HTML code, e.g. a class) 
 //    and store it in a new variable with a name of your choice
 // 5. BONUS TASK: Try changing the text content of the <p> element
-//    you selected in (4) and set it to any other text of your choice
+//    you selected in (4) and set it to any other text of your 
+//    choice.
