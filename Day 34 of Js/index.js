@@ -16,10 +16,14 @@ const submitButton = document.getElementById('submit');
 submitButton.addEventListener('click', function () {
     //create a new list item
     // stored in memory but not yet added to the DOM
+    if (shoppingItem.value == '') {
+        return;
+    }
     const newItem = document.createElement('li');
     newItem.textContent = shoppingItem.value;
     //to add list to the DOM use appendChild or append the pass item to be appended
-    document.body.insertBefore(newItem, document.body.firstChild);
+    document.body.appendChild(newItem);
+    shoppingItem.value = '';
 
 });
 

@@ -297,7 +297,7 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 </details>
 
 <details>
-<summary>Day 34 – Drilling Into The DOM & Exploring Text Nodes</summary>
+<summary>Day 34 – Drilling Into The DOM & Exploring Text Nodes ✅</summary>
 
 - [x] S12L259 - Drilling Into The DOM & Exploring Text Nodes
 - [x] S12L257 - Loading Our Script Correctly
