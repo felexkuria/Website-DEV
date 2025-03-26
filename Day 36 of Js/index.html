@@ -4,22 +4,24 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Day 36 Of Js</title>
-    <style>
-      .tweet {
-        display: grid;
-
-        grid-template-columns: 1fr 2fr;
-        gap: 10px;
-      }
-    </style>
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="tweet">
-      <label for="tweet">Add A tweet</label>
-      <input type="text" name="tweet" id="tweet" />
-      <span>60/</span>
-      <p>60</p>
-    </div>
+    <form class="tweet" method="get">
+      <div class="control">
+        <p class="product-name">Product Name</p>
+        <label for="product-name">Add A tweet</label>
+        <input
+          type="text"
+          name="product-name"
+          id="product-name"
+          maxlength="60"
+        />
+
+        <span class="charcount"> <span class="count">0</span> / 60 </span>
+        <button type="submit">submit</button>
+      </div>
+    </form>
     <script src="app.js"></script>
   </body>
 </html>
