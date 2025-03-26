@@ -318,13 +318,13 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 
 - [x] S12L268 - Deleting DOM Elements
 - [x] S12L269 - Moving Existing Elements Around
-- [ ] S12L270 - Working with “innerHTML”
-- [ ] S12 Quiz 6 - Learning Check: JavaScript & The DOM
-- [ ] S12L271 - Introducing Events
-- [ ] S12L272 - Adding a First “click” Event Listener
-- [ ] S12L273 - Listening To User Input Events
-- [ ] S12L274 - The “event” Object
-- [ ] S12 Quiz 7 - Learning Check: JavaScript & DOM Events
+- [x] S12L270 - Working with "innerHTML"
+- [x] S12 Quiz 6 - Learning Check: JavaScript & The DOM
+- [x] S12L271 - Introducing Events
+- [x] S12L272 - Adding a First "click" Event Listener
+- [x] S12L273 - Listening To User Input Events
+- [x] S12L274 - The "event" Object
+- [x] S12 Quiz 7 - Learning Check: JavaScript & DOM Events
 
 </details>
 
