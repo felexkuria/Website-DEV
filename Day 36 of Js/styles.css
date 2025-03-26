@@ -59,10 +59,10 @@ button:hover {
   color: rgb(105, 101, 75);
 }
 
-input.warning {
+/* .warning {
   background-color: rgb(248, 191, 145);
-}
+} */
 
-.count.warning {
+.warning {
   color: rgb(211, 109, 26);
 }
