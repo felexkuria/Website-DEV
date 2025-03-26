@@ -331,7 +331,7 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 <details>
 <summary>Day 36 – A More Realistic Demo & Example</summary>
 
-- [ ] S12L275 - A More Realistic Demo & Example
+- [x] S12L275 - A More Realistic Demo & Example
 - [ ] S12L276 - Introducing “Constant Variables” (“Constants”)
 - [ ] S12L277 - Changing Element Styles With JavaScript
 - [ ] S12L278 - Managing CSS Classes With JavaScript
