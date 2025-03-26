@@ -2,8 +2,11 @@ let tweet = document.getElementById("product-name");
 let remainingChar = document.querySelector(".count");
 
 function inputBox(e) {
-    console.log(e.target.value.length);
+
     remainingChar.innerHTML = 60 - e.target.value.length;
+    console.log(tweet.style.backgroundColor = "red");
+    console.log(tweet.style.borderRadius = "10px");
+
 
 }
 tweet.addEventListener("input", inputBox
