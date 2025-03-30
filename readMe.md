@@ -336,6 +336,8 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 - [ ] S12L277 - Changing Element Styles With JavaScript
 - [ ] S12L278 - Managing CSS Classes With JavaScript
 - [ ] S12L279 - Module Summary
+- [ ] Module Exercise
+- [ ] Module Solution
 
 </details>
 
