@@ -179,14 +179,14 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 </details>
 
 <details>
-<summary>Day 27 – Styling the Form Element🚫</summary>
+<summary>Day 27 – Styling the Form Element✅</summary>
 
-- [ ] S10L198 - Styling the Form Element
-- [ ] S10L199 - Adding Labels
-- [ ] S10L200 - More Detailed Forms Styling
-- [ ] S10L201 - Understanding Different Input Types
-- [ ] S10L202 - Understanding Email, Numbers, Password & Date Types
-- [ ] S10L203 - Working with Radio Buttons
+- [x] S10L198 - Styling the Form Element
+- [x] S10L199 - Adding Labels
+- [x] S10L200 - More Detailed Forms Styling
+- [x] S10L201 - Understanding Different Input Types
+- [x] S10L202 - Understanding Email, Numbers, Password & Date Types
+- [x] S10L203 - Working with Radio Buttons
 
 </details>
 
@@ -314,7 +314,7 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 </details>
 
 <details>
-<summary>Day 35 – Deleting DOM Elements</summary>
+<summary>Day 35 – Deleting DOM Elements ✅</summary>
 
 - [x] S12L268 - Deleting DOM Elements
 - [x] S12L269 - Moving Existing Elements Around
@@ -329,14 +329,15 @@ Below is a daily checklist to track your progress from Day 16 to Day 100. Day 84
 </details>
 
 <details>
-<summary>Day 36 – A More Realistic Demo & Example</summary>
+<summary>Day 36 – A More Realistic Demo & Example ✅</summary>
 
 - [x] S12L275 - A More Realistic Demo & Example
-- [ ] S12L276 - Introducing “Constant Variables” (“Constants”)
-- [ ] S12L277 - Changing Element Styles With JavaScript
-- [ ] S12L278 - Managing CSS Classes With JavaScript
-- [ ] S12L279 - Module Summary
-- [ ] Module Exercise
+
+- [x] S12L276 - Introducing "Constant Variables" ("Constants")
+- [x] S12L277 - Changing Element Styles With JavaScript
+- [x] S12L278 - Managing CSS Classes With JavaScript
+- [x] S12L279 - Module Summary
+- [x] Module Exercise
 - [ ] Module Solution
 
 </details>
