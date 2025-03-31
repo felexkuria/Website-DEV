@@ -1,0 +1,17 @@
+body {
+  margin: 0, 0, 0, 0;
+  font-family: sans-serif;
+  background-color: aliceblue;
+}
+h1 {
+  text-align: center;
+  color: rgb(48, 47, 36);
+}
+.contact_us_form {
+  margin: 0 auto;
+  width: 50%;
+  background-color: rgb(69, 102, 233);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  padding: 2rem;
+  border-radius: 6px;
+}
