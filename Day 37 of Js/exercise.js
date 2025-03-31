@@ -29,11 +29,14 @@ const thirdPara = document.getElementById('removeTEXT')
 // 4) Change the functions from (2) such that:
 //    - The first button removes the third paragraph (i.e. the <p> prior to it)
 function clicked() {
+    console.dir(firstButton)
     thirdPara.remove()
 }
 //    - The second button changes the background color of the first paragraph to blue
-function clicking() {
-    p.style.backgroundColor = 'blue'
+function clicking(event) {
+    console.dir(event.target)
+    // p.style.backgroundColor = 'blue'
+    p.classList.add('bg-blue')
 }
 // 5) Solve (4) both by changing the "inline styles" as well as by adding CSS classes
 //    Note: You'll have to add those classes to the styles.css file first!
