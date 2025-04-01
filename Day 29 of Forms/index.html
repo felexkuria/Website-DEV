@@ -10,8 +10,49 @@
     <h1>Contact Us</h1>
     <div class="contact_us_form">
       <form action="/submit" method="get">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required />
+        <h2>How can We Help You</h2>
+        <div class="name">
+          <label for="name"> Your Name:</label>
+          <input type="text" id="name" name="name" required />
+        </div>
+        <div class="email">
+          <label for="email"> Your Email:</label>
+          <input type="email" name="emai" id="email" required />
+        </div>
+        <div class="tel">
+          <label for="phone_number">Your Phone Number *</label>
+          <input type="tel" name="tel" id="phone_number" required />
+        </div>
+
+        <div class="message">
+          <label for="message">Your Message:</label>
+          <input type="text" name="message" id="message" />
+        </div>
+        <div class="wordofmouth">
+          <label for="dropdown">How Did you Find Us:</label>
+          <select name="dropdown" id="dropdown">
+            <option value="web_search">Web Search</option>
+            <option value="social_media">Social Media</option>
+            <option value="word_mouth">World of Mouuth</option>
+          </select>
+        </div>
+        <div class="reply">
+          <h2>How can We Reply</h2>
+          <!-- add radio button for call me whatsapp -->
+          <label for="reply">Whatsapp</label>
+          <input type="radio" name="radio" id="whatsapp" />
+          <label for="reply">Email</label>
+          <input type="radio" name="radio" id="email" />
+          <label for="reply">Text</label>
+          <input type="radio" name="radio" id="text" />
+          <label for="reply">call Me</label>
+          <input type="radio" name="radio" id="call_me" />
+        </div>
+        <div><input type="checkbox" name="checkbox" id="checkbox" /></div>
+        <div class="button">
+          <button class="submit" type="submit">Submit</button>
+          <button class="clear" type="clear">Clear</button>
+        </div>
       </form>
     </div>
   </body>

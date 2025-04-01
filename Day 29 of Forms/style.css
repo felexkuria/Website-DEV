@@ -6,6 +6,19 @@ body {
 h1 {
   text-align: center;
   color: rgb(48, 47, 36);
+  font-size: 24px;
+  text-transform: capitalize;
+  margin: 0;
+  padding-bottom: 16px;
+  font-weight: bold;
+}
+h2 {
+  text-align: start;
+  font-size: 18px;
+  margin: 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-weight: bold;
 }
 .contact_us_form {
   margin: 0 auto;
@@ -14,4 +27,61 @@ h1 {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   padding: 2rem;
   border-radius: 6px;
+  font-size: 16px;
+}
+.contact_us_form input {
+  border-radius: 3px;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 18px;
+  font-size: 18px;
+  border: 2px solid black;
+}
+.contact_us_form label {
+  padding-top: 8px;
+  margin-top: 8px;
+  font-size: 18px;
+}
+.contact_us_form input:focus {
+  border: 2px solid rgb(131, 244, 45);
+  background-color: beige;
+}
+.contact_us_form select {
+  border-radius: 3px;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 18px;
+  font-size: 18px;
+  border: 2px solid black;
+}
+.message input {
+  height: 150px;
+  /* text start at first line of box and text goes to next line when it reaches end of box */
+  vertical-align: top;
+  /* text goes to next like /n */
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-bottom: 18px;
+  font-size: 18px;
+  border: 2px solid black;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.submit,
+.clear {
+  padding: 12px;
+  text-align: center;
+  font-weight: bold;
+  margin-left: 12px;
+  border-radius: 8px;
+}
+.submit {
+  background-color: blue;
+  color: wheat;
 }
