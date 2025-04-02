@@ -6,7 +6,8 @@ body {
 h1 {
   text-align: center;
   color: rgb(48, 47, 36);
-  font-size: 24px;
+  font-size: 30px;
+  font: inherit;
   text-transform: capitalize;
   margin: 0;
   padding-bottom: 16px;
@@ -23,7 +24,7 @@ h2 {
 .contact_us_form {
   margin: 0 auto;
   width: 50%;
-  background-color: rgb(69, 102, 233);
+  background-color: rgb(196, 200, 219);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   padding: 2rem;
   border-radius: 6px;
@@ -39,17 +40,17 @@ h2 {
 }
 .contact_us_form label {
   padding-top: 8px;
-  margin-top: 8px;
+  margin-top: 0.5rem;
   font-size: 18px;
 }
 .contact_us_form input:focus {
-  border: 2px solid rgb(131, 244, 45);
-  background-color: beige;
+  border: 2px solid rgb(45, 125, 244);
+  background-color: rgb(117, 117, 115);
 }
 .contact_us_form select {
   border-radius: 3px;
   width: 100%;
-  padding: 8px;
+  padding: 18px;
   margin-bottom: 18px;
   font-size: 18px;
   border: 2px solid black;
@@ -66,6 +67,36 @@ h2 {
   margin-bottom: 18px;
   font-size: 18px;
   border: 2px solid black;
+}
+
+.reply {
+  /* background: white; */
+  padding: 20px;
+  /* border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px; */
+}
+.inline-control {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 0px;
+  margin: 0;
+  box-sizing: border-box;
+}
+.inline-control input {
+  width: auto;
+}
+.inline-control label {
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 0px;
+  padding-left: 8px;
+  /* margin: 4px 0; */
+}
+.checkbox-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 .button {
   display: flex;

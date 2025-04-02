@@ -26,7 +26,13 @@
 
         <div class="message">
           <label for="message">Your Message:</label>
-          <input type="text" name="message" id="message" />
+          <input
+            type="text"
+            name="message"
+            id="message"
+            minlength="50"
+            maxlength="200"
+          />
         </div>
         <div class="wordofmouth">
           <label for="dropdown">How Did you Find Us:</label>
@@ -38,17 +44,28 @@
         </div>
         <div class="reply">
           <h2>How can We Reply</h2>
-          <!-- add radio button for call me whatsapp -->
-          <label for="reply">Whatsapp</label>
-          <input type="radio" name="radio" id="whatsapp" />
-          <label for="reply">Email</label>
-          <input type="radio" name="radio" id="email" />
-          <label for="reply">Text</label>
-          <input type="radio" name="radio" id="text" />
-          <label for="reply">call Me</label>
-          <input type="radio" name="radio" id="call_me" />
+          <div class="inline-control">
+            <input type="radio" name="reply" id="whatsapp" />
+            <label for="whatsapp">Whatsapp</label>
+          </div>
+          <div class="inline-control">
+            <input type="radio" name="reply" id="email" />
+            <label for="email">Email</label>
+          </div>
+          <div class="inline-control">
+            <input type="radio" name="reply" id="text" />
+            <label for="text">Text</label>
+          </div>
+          <div class="inline-control">
+            <input type="radio" name="reply" id="call_me" />
+            <label for="call_me">Call Me</label>
+          </div>
+          <div class="inline-control checkbox-container">
+            <input type="checkbox" id="terms" />
+            <label for="terms">Accept Terms</label>
+          </div>
         </div>
-        <div><input type="checkbox" name="checkbox" id="checkbox" /></div>
+
         <div class="button">
           <button class="submit" type="submit">Submit</button>
           <button class="clear" type="clear">Clear</button>
