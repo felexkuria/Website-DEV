@@ -75,22 +75,23 @@ h2 {
   /* border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 300px; */
+  /* box-sizing: border-box; */
 }
 .inline-control {
   display: flex;
-  flex-direction: row;
-  margin-bottom: 0px;
-  margin: 0;
-  box-sizing: border-box;
+  margin-bottom: 10px;
+  align-items: center;
 }
 .inline-control input {
   width: auto;
+  margin-right: 8px;
+  margin-top: 20px;
 }
 .inline-control label {
   font-size: 16px;
   cursor: pointer;
   margin-top: 0px;
-  padding-left: 8px;
+  /* padding-left: 8px; */
   /* margin: 4px 0; */
 }
 .checkbox-container {
