@@ -1,7 +1,7 @@
 create  table if not exists  Addresses ( uniqueID INTEGER PRIMARY KEY AUTOINCREMENT, street varchar,streetNumber int, city varchar,postalCode varchar,country  varchar);
 create  table if not exists types(id INTEGER PRIMARY KEY AUTOINCREMENT,name VARCHAR );
 INSERT INTO types (name)values('Swahili Dishes');
-NSERT INTO Addresses (street, streetNumber, city, postalCode, country)
+INSERT INTO Addresses (street, streetNumber, city, postalCode, country)
 VALUES
 ('Main Street', 123, 'Nairobi', '00100', 'Kenya'),
 ('Kenyatta Avenue', 45, 'Mombasa', '80100', 'Kenya'),
@@ -40,3 +40,24 @@ SELECT * FROM reviews;
 insert INTO resturant (Name,AddressesId,TypeId) VALUES('Cjs',2,3);
 SELECT* FROM reviews WHERE rating > 3;
   --  * Merge resturatant data address data type
+-- Inserting data
+INSERT INTO resturant (Name, AddressesId, TypeId) VALUES
+('Mama Oliech', 1, 2),
+('Java House', 2, 1),
+('Tamarind Nairobi', 3, 3),
+('Wasp & Sprout', 4, 2),
+('Urban Gourmet Burgers', 5, 1),
+('Artcaffe', 6, 1),
+('Nyama Mama', 7, 2),
+('The Talisman', 8, 3),
+('CJ’s', 9, 1),
+('KFC Westlands', 10, 4);
+
+SELECT review.reviewer_name, review.rating,review.text,review.date ,
+resturant.Name , address.street,type.name as type_name
+,type.name
+FROM reviews as review 
+INNER JOIN resturant as resturant on review.resturant_id = resturant.uniqueId
+INNER JOIN types AS type on resturant.TypeId =type.id
+INNER JOIN Addresses as address on resturant.AddressesId = address.uniqueID
+where rating >3 ;
