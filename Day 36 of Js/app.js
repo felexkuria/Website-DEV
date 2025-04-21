@@ -6,8 +6,9 @@ function inputBox(e) {
     remainingChar.innerHTML = 60 - e.target.value.length;
     // console.log(tweet.style.backgroundColor = "red");
     // console.log(tweet.style.borderRadius = "10px");
-    if (e.target.value.length >= 60) {
+    if (e.target.value.length >= 50) {
         tweet.classList.add(".warning");
+        console.log(tweet.style.backgroundColor = "red");
     }
 
 
