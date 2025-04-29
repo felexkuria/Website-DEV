@@ -8,7 +8,11 @@ function inputBox(e) {
     // console.log(tweet.style.borderRadius = "10px");
     if (e.target.value.length >= 50) {
         tweet.classList.add(".warning");
+        remainingChar.style.color = "red";
         console.log(tweet.style.backgroundColor = "red");
+    } else {
+        tweet.classList.remove(".warning");
+        remainingChar.style.color = "black";
     }
 
 
